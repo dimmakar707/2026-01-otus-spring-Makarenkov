@@ -1,1 +1,1 @@
-# 2026-01-otus-spring-Makarenkov
+# Макаренков Дмитрий. Курс «Разработчик на Spring Framework»
