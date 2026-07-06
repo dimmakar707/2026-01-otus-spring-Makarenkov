@@ -37,8 +37,6 @@ public class TestServiceImpl implements TestService {
     private boolean checkUserAnswerIsCorrect(Question question) {
         ioService.printFormattedLineLocalized("TestService.answer.the.question", question.text());
         ioService.printLineLocalized("TestService.answer.the.answers");
-        //System.out.println("Question: " + question.text());
-        //System.out.println("Answers:");
         List<Answer> answers = question.answers();
         int answerNumber = 0;
         int rightAnswerNumber = -1;
