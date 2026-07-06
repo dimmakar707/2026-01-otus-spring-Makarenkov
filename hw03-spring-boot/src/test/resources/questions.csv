@@ -1,0 +1,2 @@
+# Добавить сюда своих вопросов. Эту строку надо пропустить при настройке CsvToBean (withSkipLines)
+What is Maven?;Test framework%false|Build tool for Java projects%true|Plugin for compiling JAR files%false
